@@ -123,7 +123,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
     day = localtime().tm_mday
     today = datetime.date(datetime(year=year, month=month, day=day))
     week = week_list[today.isoweekday() % 7]
-    # 获取在一起的日子的日期格式
+    # 获取在认识的日子的日期格式
     acquaintance_year = int(config["acquaintance_date"].split("-")[0])
     acquaintance_month = int(config["acquaintance_date"].split("-")[1])
     acquaintance_day = int(config["acquaintance_date"].split("-")[2])
