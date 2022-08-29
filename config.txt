@@ -1,12 +1,12 @@
 {
 #公众号配置
 #公众号appId
-"app_id":"wx4f5dce01cb2e8040",
+"app_id":"wx2f7f896c1dce4ea4",
 #公众号appSecret
-"app_secret":"a566848ba5655ac4cb9ab03c1cdb3039",
+"app_secret":"c7d81091a40dd840b10084549811b28a",
 #模板消息id
 "template_id":"d2LdvjmchqyFcaybCc9nYjeE_EbW0PNrzyTFg-fpwKA",
-"user":["oGLWK5j78wKWebB3JR1aBvRfaFeo","oGLWK5j78wKWebB3JR1aBvRfaFeo"],
+"user":["oxb7H6C5PehcFTNUGwATuB0iRKBw","oxb7H6F5arhb8L3wY-XHqsh9SQsY"],
  
 #信息配置
 #和风天气apikey
